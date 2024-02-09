@@ -8,11 +8,3 @@ In this work, I employ the separation of variables method to show that the Klein
 equation can be separated in Kerr-Newman geometry by using the Newman-Penrose formalism.
 Effort to study the Klein-Gordon equation in accelerating Kerr-Newman geometry by using the
 Newman-Penrose formalism is also given.
-
-Formalisme Newman-Penrose merupakan sekumpulan notasi yang dimaksudkan untuk memperlakukan relativitas umum dalam notasi spinor. Dalam tugas akhir ini, saya menurunkan
-persamaan radial dan angular serupa Teukolsky untuk geometri Kerr-Newman menggunakan
-formalisme Newman-Penrose. Metrik Kerr-Newman menggambarkan massa yang berputar, bermuatan, dan solusi dari persamaan Einstein-Maxwell. Dalam pekerjaan ini, saya menggunakan
-metode separasi variabel untuk menunjukkan persamaan Klein-Gordon dapat diseparasi dalam
-geometri Kerr-Newman dengan formalisme Newman-Penrose. Upaya untuk menelaah persamaan
-Klein-Gordon dalam geometri Kerr-Newman terakselerasi dengan formalisme Newman-Penrose
-juga diberikan.
